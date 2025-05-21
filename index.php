@@ -1,4 +1,5 @@
 <?php
+    // a comment from hseuser : 23:36
     include('config.php');
     // get content of $filename 23:34
     // each line will be stored as element of 
