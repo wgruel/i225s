@@ -1,6 +1,7 @@
 <?php
+    // a comment from Mac 23:37
     include('config.php');
-    // get content of $filename 23:34
+    // get content of $filename 
     // each line will be stored as element of 
     // array $text
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
