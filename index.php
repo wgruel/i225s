@@ -13,7 +13,7 @@
     <title>Email Address Manager</title>
 </head>
 <body >
-    <h1>Email Address Manager - Welcome</h1>
+    <h1>Welcome to the Email Address Manager</h1>
     <h2>Recently Saved Emails</h2>
     <?php
     foreach ($lines as $line){
