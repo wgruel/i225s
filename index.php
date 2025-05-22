@@ -1,5 +1,4 @@
 <?php
-    // a comment from Mac 23:37
     include('config.php');
     // get content of $filename 
     // each line will be stored as element of 
@@ -14,7 +13,7 @@
     <title>Email Address Manager</title>
 </head>
 <body >
-    <h1>Email Address Manager - Hello</h1>
+    <h1>Email Address Manager - Welcome</h1>
     <h2>Saved Emails</h2>
     <?php
     foreach ($lines as $line){
