@@ -14,7 +14,7 @@
 </head>
 <body >
     <h1>Email Address Manager - Welcome</h1>
-    <h2>Saved Emails</h2>
+    <h2>Recently Saved Emails</h2>
     <?php
     foreach ($lines as $line){
         echo "<p>". $line . 
